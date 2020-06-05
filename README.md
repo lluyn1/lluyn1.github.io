@@ -1,1 +1,1 @@
-# lluyn1.github.io
+permalink: /Index.html
